@@ -119,3 +119,4 @@ cat("\nDimensões do dataset:", nrow(df), "linhas x", ncol(df), "colunas\n")
 cat("Variáveis:", paste(names(df), collapse = ", "), "\n")
 
 df %>% rename(idc_rend_academico = ira) %>% readr::write_csv(file = "cursos.csv")
+
