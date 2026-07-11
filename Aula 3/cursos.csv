@@ -1,0 +1,201 @@
+curso,sexo,idade,periodo,idc_rend_academico,cidade_origem,renda_familiar,ingresso,bolsista,turno
+Matematica,Homem,25,1,8.4,Sao Paulo,5865,Vestibular,Sim,Integral
+Matematica,Homem,21,4,5.76,Sao Paulo,6221,ENEM,Nao,Noturno
+Matematica,Homem,23,5,6.87,Belo Horizonte,2696,ENEM,Sim,Integral
+Matematica,Homem,24,6,6.86,Sao Paulo,4042,Convenio,Sim,Integral
+Matematica,Homem,23,1,6.11,Outras,2684,ENEM,Nao,Integral
+Matematica,Homem,22,1,5.6,Curitiba,3357,Vestibular,Nao,Noturno
+Matematica,Homem,26,2,6.8,Belo Horizonte,2378,ENEM,Sim,Integral
+Matematica,Homem,22,1,7.59,Rio de Janeiro,2515,ENEM,Nao,Integral
+Matematica,Homem,27,2,8.57,Sao Paulo,7172,Convenio,Nao,Noturno
+Matematica,Homem,22,3,4.51,Belo Horizonte,4173,Vestibular,Nao,Integral
+Matematica,Homem,25,1,5.96,Curitiba,4208,ENEM,Nao,Noturno
+Matematica,Homem,28,6,6.43,Curitiba,13873,ENEM,Nao,Integral
+Matematica,Homem,19,3,4.8,Sao Paulo,4746,ENEM,Nao,Integral
+Matematica,Homem,21,3,5.9,Sao Paulo,3561,Vestibular,Nao,Integral
+Matematica,Homem,22,4,5.87,Outras,7695,ENEM,Nao,Integral
+Matematica,Homem,24,3,5.93,Rio de Janeiro,3669,ENEM,Nao,Integral
+Matematica,Homem,21,3,4.17,Sao Paulo,11201,Vestibular,Nao,Noturno
+Matematica,Homem,18,5,7.06,Sao Paulo,3918,ENEM,Nao,Integral
+Matematica,Homem,18,3,6.04,Sao Paulo,3396,ENEM,Nao,Noturno
+Matematica,Homem,25,1,8.62,Outras,2438,Transferencia,Nao,Integral
+Matematica,Homem,21,4,7.76,Sao Paulo,5986,Vestibular,Nao,Integral
+Matematica,Homem,18,2,5.06,Belo Horizonte,11848,Vestibular,Nao,Integral
+Matematica,Homem,22,2,6.92,Rio de Janeiro,3969,Vestibular,Nao,Noturno
+Matematica,Homem,25,1,6.09,Sao Paulo,5750,ENEM,Nao,Integral
+Matematica,Homem,27,4,7.87,Curitiba,6003,Transferencia,Nao,Noturno
+Matematica,Homem,21,3,6.86,Outras,11537,ENEM,Nao,Integral
+Matematica,Homem,21,4,6.13,Rio de Janeiro,7320,Vestibular,Nao,Noturno
+Matematica,Homem,18,3,7.33,Sao Paulo,2581,ENEM,Sim,Integral
+Matematica,Homem,23,2,6.98,Outras,3235,Transferencia,Nao,Integral
+Matematica,Homem,20,5,6.6,Rio de Janeiro,3141,Vestibular,Nao,Integral
+Matematica,Homem,23,3,9.22,Belo Horizonte,5350,ENEM,Nao,Integral
+Matematica,Homem,24,4,6.16,Sao Paulo,4903,Vestibular,Nao,Noturno
+Matematica,Homem,25,1,6.24,Sao Paulo,6129,ENEM,Nao,Noturno
+Matematica,Homem,20,2,4.94,Belo Horizonte,3313,ENEM,Nao,Noturno
+Matematica,Homem,23,3,6.75,Outras,3921,Vestibular,Nao,Integral
+Matematica,Homem,18,2,7.87,Rio de Janeiro,7668,Vestibular,Nao,Noturno
+Matematica,Homem,20,5,4.31,Rio de Janeiro,4630,Vestibular,Nao,Noturno
+Matematica,Homem,20,3,6.5,Rio de Janeiro,3319,Vestibular,Nao,Integral
+Matematica,Homem,18,3,5.38,Rio de Janeiro,8802,ENEM,Nao,Noturno
+Matematica,Homem,22,2,8.53,Sao Paulo,4955,Convenio,Nao,Noturno
+Matematica,Homem,23,2,8.43,Outras,2836,Transferencia,Nao,Integral
+Matematica,Homem,21,4,7.2,Sao Paulo,13709,Vestibular,Nao,Integral
+Matematica,Homem,24,5,8.52,Belo Horizonte,2439,ENEM,Sim,Noturno
+Matematica,Homem,20,5,5.76,Curitiba,1688,Convenio,Nao,Integral
+Matematica,Homem,19,1,7.94,Sao Paulo,1272,ENEM,Nao,Noturno
+Matematica,Homem,23,6,6.1,Outras,7264,Vestibular,Nao,Integral
+Matematica,Homem,20,5,7.19,Belo Horizonte,3570,Vestibular,Sim,Integral
+Matematica,Homem,26,3,6.44,Belo Horizonte,4166,Vestibular,Nao,Integral
+Matematica,Homem,21,4,6.47,Sao Paulo,5848,Vestibular,Nao,Integral
+Matematica,Homem,24,2,7.46,Belo Horizonte,3715,Vestibular,Nao,Integral
+Matematica,Homem,23,1,5.24,Belo Horizonte,1873,Vestibular,Sim,Integral
+Matematica,Homem,20,3,6.5,Belo Horizonte,1526,ENEM,Sim,Integral
+Matematica,Homem,26,1,7.01,Sao Paulo,4006,ENEM,Nao,Integral
+Matematica,Homem,24,3,6.32,Sao Paulo,5458,Convenio,Nao,Noturno
+Matematica,Homem,22,5,6.93,Belo Horizonte,1253,ENEM,Nao,Noturno
+Matematica,Homem,23,1,6.42,Sao Paulo,5851,Vestibular,Nao,Integral
+Matematica,Homem,24,2,8.74,Rio de Janeiro,6332,ENEM,Nao,Integral
+Matematica,Homem,22,3,7.66,Sao Paulo,10688,Transferencia,Nao,Noturno
+Matematica,Homem,18,1,10,Sao Paulo,5425,Vestibular,Nao,Integral
+Matematica,Homem,23,2,5.85,Curitiba,5558,Vestibular,Nao,Integral
+Matematica,Homem,21,4,7.78,Belo Horizonte,7064,Vestibular,Nao,Integral
+Matematica,Homem,22,4,9.32,Belo Horizonte,4859,Transferencia,Nao,Noturno
+Matematica,Homem,23,4,7.16,Belo Horizonte,4685,Vestibular,Nao,Integral
+Matematica,Homem,25,1,5.5,Sao Paulo,5269,ENEM,Nao,Integral
+Matematica,Homem,20,3,5.59,Sao Paulo,7681,Vestibular,Nao,Integral
+Matematica,Homem,25,5,6.76,Rio de Janeiro,3794,Vestibular,Nao,Noturno
+Matematica,Homem,23,4,8.37,Outras,3642,ENEM,Nao,Noturno
+Matematica,Homem,25,3,7.7,Rio de Janeiro,2925,Vestibular,Sim,Integral
+Matematica,Homem,24,1,4.23,Curitiba,2767,Vestibular,Sim,Integral
+Matematica,Homem,24,3,5.96,Sao Paulo,5979,Transferencia,Nao,Noturno
+Matematica,Mulher,19,4,6.79,Sao Paulo,12437,ENEM,Nao,Integral
+Matematica,Mulher,22,3,5.05,Belo Horizonte,2748,Vestibular,Sim,Integral
+Matematica,Mulher,24,3,7.63,Sao Paulo,4389,Vestibular,Sim,Noturno
+Matematica,Mulher,20,4,3.85,Sao Paulo,2649,Vestibular,Sim,Integral
+Matematica,Mulher,21,2,6.97,Belo Horizonte,8475,Vestibular,Nao,Integral
+Matematica,Mulher,23,5,6.33,Belo Horizonte,4063,ENEM,Nao,Integral
+Matematica,Mulher,24,4,6.21,Sao Paulo,5472,ENEM,Nao,Integral
+Matematica,Mulher,23,1,6.46,Belo Horizonte,6056,ENEM,Sim,Integral
+Matematica,Mulher,20,5,7.18,Sao Paulo,2611,ENEM,Sim,Noturno
+Matematica,Mulher,19,5,7.28,Sao Paulo,4615,ENEM,Nao,Noturno
+Matematica,Mulher,26,4,6.53,Belo Horizonte,4286,ENEM,Nao,Integral
+Matematica,Mulher,23,1,4.49,Sao Paulo,7370,Vestibular,Nao,Noturno
+Matematica,Mulher,22,2,5.07,Sao Paulo,2345,ENEM,Sim,Noturno
+Matematica,Mulher,22,4,5.04,Sao Paulo,2392,ENEM,Sim,Noturno
+Matematica,Mulher,19,3,7.71,Sao Paulo,7782,Transferencia,Nao,Noturno
+Matematica,Mulher,24,4,6.51,Belo Horizonte,3453,Vestibular,Nao,Noturno
+Matematica,Mulher,21,7,7.12,Belo Horizonte,3307,ENEM,Nao,Noturno
+Matematica,Mulher,22,2,4.93,Rio de Janeiro,5260,ENEM,Nao,Noturno
+Matematica,Mulher,24,1,6.16,Sao Paulo,4055,ENEM,Nao,Integral
+Matematica,Mulher,24,3,7.47,Rio de Janeiro,15060,Vestibular,Nao,Integral
+Matematica,Mulher,25,2,6.59,Sao Paulo,5743,Vestibular,Nao,Integral
+Matematica,Mulher,21,4,6.66,Sao Paulo,5415,Vestibular,Nao,Integral
+Matematica,Mulher,24,2,6.71,Sao Paulo,8592,ENEM,Nao,Integral
+Matematica,Mulher,25,6,8.25,Belo Horizonte,4741,ENEM,Nao,Integral
+Matematica,Mulher,19,3,6.06,Belo Horizonte,5061,ENEM,Nao,Integral
+Matematica,Mulher,20,2,7.61,Sao Paulo,2582,ENEM,Nao,Noturno
+Matematica,Mulher,19,3,7.88,Rio de Janeiro,1242,Transferencia,Sim,Noturno
+Matematica,Mulher,18,4,5.37,Sao Paulo,2382,ENEM,Sim,Integral
+Matematica,Mulher,22,3,6.95,Belo Horizonte,5263,ENEM,Nao,Integral
+Matematica,Mulher,24,1,6.79,Sao Paulo,2644,ENEM,Sim,Integral
+Matematica,Mulher,25,3,8.03,Outras,7430,Transferencia,Nao,Integral
+Matematica,Mulher,25,4,7.9,Curitiba,7594,Vestibular,Nao,Noturno
+Matematica,Mulher,19,3,6.8,Rio de Janeiro,5599,Convenio,Nao,Noturno
+Matematica,Mulher,27,4,6.96,Sao Paulo,4355,Vestibular,Nao,Integral
+Matematica,Mulher,20,3,5.94,Sao Paulo,2166,ENEM,Sim,Noturno
+Matematica,Mulher,22,3,6.56,Outras,4083,Transferencia,Nao,Noturno
+Matematica,Mulher,21,4,5.56,Belo Horizonte,3745,ENEM,Nao,Noturno
+Matematica,Mulher,22,4,5.64,Outras,7317,Vestibular,Nao,Noturno
+Matematica,Mulher,22,1,5.34,Curitiba,10777,ENEM,Nao,Noturno
+Matematica,Mulher,22,3,7.8,Rio de Janeiro,6638,Convenio,Nao,Noturno
+Macroeconomia,Homem,24,4,8.54,Sao Paulo,4118,Vestibular,Nao,Integral
+Macroeconomia,Homem,24,3,6.7,Belo Horizonte,22084,ENEM,Sim,Noturno
+Macroeconomia,Homem,23,2,5.85,Sao Paulo,14857,Vestibular,Nao,Noturno
+Macroeconomia,Homem,23,3,7.09,Sao Paulo,9266,ENEM,Sim,Noturno
+Macroeconomia,Homem,20,5,9.89,Sao Paulo,2156,Transferencia,Nao,Integral
+Macroeconomia,Homem,23,3,9.65,Sao Paulo,4570,ENEM,Nao,Integral
+Macroeconomia,Homem,23,3,5.14,Sao Paulo,7776,Transferencia,Nao,Integral
+Macroeconomia,Homem,31,4,6.77,Rio de Janeiro,12795,Transferencia,Nao,Integral
+Macroeconomia,Homem,21,2,9.04,Belo Horizonte,3992,Transferencia,Sim,Integral
+Macroeconomia,Homem,24,6,7.15,Rio de Janeiro,55643,ENEM,Nao,Noturno
+Macroeconomia,Homem,20,3,9.12,Sao Paulo,1751,Vestibular,Sim,Noturno
+Macroeconomia,Homem,20,4,6.8,Rio de Janeiro,7033,Transferencia,Nao,Noturno
+Macroeconomia,Homem,24,4,7.93,Outras,6934,Vestibular,Nao,Integral
+Macroeconomia,Homem,22,4,7.47,Curitiba,5442,ENEM,Sim,Noturno
+Macroeconomia,Homem,24,7,10,Rio de Janeiro,6692,ENEM,Nao,Integral
+Macroeconomia,Mulher,23,3,8.3,Belo Horizonte,12650,Transferencia,Sim,Noturno
+Macroeconomia,Mulher,22,6,5.75,Belo Horizonte,4795,ENEM,Nao,Noturno
+Macroeconomia,Mulher,19,4,6.48,Outras,2322,Transferencia,Sim,Noturno
+Macroeconomia,Mulher,21,3,7.64,Curitiba,8572,Vestibular,Nao,Integral
+Macroeconomia,Mulher,24,4,4.92,Rio de Janeiro,8094,ENEM,Nao,Noturno
+Macroeconomia,Mulher,25,5,5.03,Rio de Janeiro,8040,Convenio,Nao,Integral
+Macroeconomia,Mulher,23,3,5.85,Sao Paulo,12098,ENEM,Nao,Integral
+Macroeconomia,Mulher,24,3,6.78,Outras,8039,Convenio,Nao,Integral
+Macroeconomia,Mulher,27,4,8.69,Curitiba,12908,Vestibular,Nao,Integral
+Macroeconomia,Mulher,28,5,6.87,Rio de Janeiro,2425,ENEM,Sim,Integral
+Macroeconomia,Mulher,21,4,7.39,Belo Horizonte,4118,ENEM,Nao,Integral
+Macroeconomia,Mulher,24,2,7.12,Sao Paulo,9989,ENEM,Nao,Integral
+Macroeconomia,Mulher,27,2,6.35,Sao Paulo,6557,Vestibular,Sim,Integral
+Macroeconomia,Mulher,23,3,8.83,Rio de Janeiro,14284,Transferencia,Nao,Noturno
+Macroeconomia,Mulher,24,3,5.88,Rio de Janeiro,4434,Vestibular,Nao,Integral
+Estatistica,Homem,23,3,6.23,Rio de Janeiro,9268,ENEM,Sim,Noturno
+Estatistica,Homem,21,4,6.08,Sao Paulo,4019,ENEM,Nao,Noturno
+Estatistica,Homem,22,2,7.14,Rio de Janeiro,3078,ENEM,Nao,Integral
+Estatistica,Homem,23,1,8.43,Belo Horizonte,4887,ENEM,Nao,Integral
+Estatistica,Homem,22,4,7.12,Sao Paulo,6185,Vestibular,Nao,Integral
+Estatistica,Homem,26,3,8.16,Outras,2874,ENEM,Nao,Noturno
+Estatistica,Homem,22,5,7.42,Sao Paulo,3796,Convenio,Nao,Integral
+Estatistica,Homem,22,1,5.75,Sao Paulo,2842,ENEM,Nao,Noturno
+Estatistica,Homem,25,3,6.6,Rio de Janeiro,11049,Convenio,Nao,Integral
+Estatistica,Homem,20,5,8.15,Belo Horizonte,9267,ENEM,Nao,Integral
+Estatistica,Mulher,23,4,4.63,Sao Paulo,3231,Vestibular,Nao,Integral
+Estatistica,Mulher,19,2,6.89,Rio de Janeiro,8387,Vestibular,Nao,Noturno
+Estatistica,Mulher,26,4,6.31,Sao Paulo,5149,Vestibular,Nao,Noturno
+Estatistica,Mulher,22,2,7.55,Sao Paulo,3078,Transferencia,Nao,Integral
+Estatistica,Mulher,22,2,7.4,Rio de Janeiro,7729,Vestibular,Nao,Noturno
+Estatistica,Mulher,20,5,6.86,Sao Paulo,4945,ENEM,Nao,Noturno
+Estatistica,Mulher,23,3,8.29,Sao Paulo,10179,ENEM,Nao,Integral
+Estatistica,Mulher,21,4,4.67,Sao Paulo,5341,Vestibular,Nao,Noturno
+Estatistica,Mulher,22,3,7.59,Belo Horizonte,12245,ENEM,Nao,Noturno
+Estatistica,Mulher,26,1,4.6,Sao Paulo,4421,ENEM,Sim,Integral
+Estatistica,Mulher,23,2,7.21,Belo Horizonte,6848,Vestibular,Nao,Noturno
+Estatistica,Mulher,20,1,6.61,Outras,7496,ENEM,Sim,Integral
+Estatistica,Mulher,23,2,7.66,Sao Paulo,7097,ENEM,Nao,Integral
+Estatistica,Mulher,22,2,6.59,Sao Paulo,6776,Vestibular,Nao,Integral
+Estatistica,Mulher,24,3,4.62,Outras,5956,Vestibular,Nao,Integral
+Estatistica,Mulher,27,3,4.09,Sao Paulo,5684,ENEM,Nao,Integral
+Estatistica,Mulher,21,6,7.15,Sao Paulo,13616,ENEM,Nao,Integral
+Estatistica,Mulher,24,1,6.41,Sao Paulo,10351,Vestibular,Nao,Integral
+Estatistica,Mulher,23,2,5.81,Outras,4163,ENEM,Nao,Integral
+Estatistica,Mulher,25,4,6.13,Sao Paulo,13875,ENEM,Nao,Noturno
+Econometria,Homem,24,7,6.19,Sao Paulo,10795,Transferencia,Nao,Integral
+Econometria,Homem,27,5,6.81,Belo Horizonte,6739,ENEM,Nao,Integral
+Econometria,Homem,21,7,5.88,Sao Paulo,10959,Vestibular,Nao,Integral
+Econometria,Homem,29,3,4.62,Rio de Janeiro,9006,ENEM,Nao,Integral
+Econometria,Homem,27,7,6.74,Rio de Janeiro,10515,Convenio,Nao,Integral
+Econometria,Homem,25,4,8.25,Sao Paulo,5519,ENEM,Nao,Integral
+Econometria,Homem,21,5,9.25,Rio de Janeiro,6052,Vestibular,Nao,Integral
+Econometria,Homem,27,3,7,Sao Paulo,22421,Vestibular,Nao,Integral
+Econometria,Homem,26,5,6.9,Rio de Janeiro,17621,Transferencia,Nao,Integral
+Econometria,Homem,25,8,8.16,Curitiba,5824,Vestibular,Nao,Integral
+Econometria,Homem,25,8,7.06,Sao Paulo,5767,Vestibular,Nao,Noturno
+Econometria,Homem,24,3,6.48,Outras,27834,ENEM,Sim,Noturno
+Econometria,Homem,26,6,4.92,Sao Paulo,31114,ENEM,Nao,Noturno
+Econometria,Homem,26,7,5.48,Sao Paulo,6209,ENEM,Nao,Noturno
+Econometria,Homem,24,5,7.49,Belo Horizonte,4531,ENEM,Nao,Noturno
+Econometria,Homem,22,5,5.25,Sao Paulo,47767,ENEM,Nao,Noturno
+Econometria,Homem,27,5,8.26,Sao Paulo,11359,Transferencia,Nao,Noturno
+Econometria,Homem,26,6,5.38,Rio de Janeiro,11071,Vestibular,Nao,Integral
+Econometria,Homem,23,7,6.77,Sao Paulo,10360,Transferencia,Nao,Integral
+Econometria,Homem,21,6,7,Rio de Janeiro,22992,Vestibular,Sim,Noturno
+Econometria,Mulher,26,5,6.98,Sao Paulo,8822,Vestibular,Nao,Noturno
+Econometria,Mulher,24,5,7.18,Outras,23757,Convenio,Nao,Integral
+Econometria,Mulher,26,6,7.72,Sao Paulo,8670,ENEM,Sim,Integral
+Econometria,Mulher,22,4,6.85,Rio de Janeiro,13401,Vestibular,Sim,Noturno
+Econometria,Mulher,23,5,6.7,Sao Paulo,5324,Convenio,Nao,Integral
+Econometria,Mulher,28,7,7.19,Rio de Janeiro,10963,ENEM,Nao,Integral
+Econometria,Mulher,26,6,6.48,Rio de Janeiro,20341,ENEM,Nao,Integral
+Econometria,Mulher,26,5,8.84,Sao Paulo,8973,ENEM,Nao,Noturno
+Econometria,Mulher,30,5,4.4,Rio de Janeiro,21364,ENEM,Sim,Noturno
+Econometria,Mulher,25,6,8.23,Rio de Janeiro,50834,Convenio,Nao,Noturno
